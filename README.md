@@ -3,7 +3,7 @@
 * Installation
 Just Delete The qb-menu and Drop the qb-menu
 * Preview
-![image](https://cdn.discordapp.com/attachments/1101124727768100904/1101124773301465198/2023-04-27_18-30-48.gif)
+![](https://cdn.discordapp.com/attachments/1101124727768100904/1101124773301465198/2023-04-27_18-30-48.gif)
 * Main Script
 https://github.com/qbcore-framework/qb-menu
 
