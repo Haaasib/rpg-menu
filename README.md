@@ -1,7 +1,7 @@
 
 
 * Installation
-![Docs](https://hasib.gitbook.io/home/docs/rpg-menu)
+* [Docs](https://hasib.gitbook.io/home/docs/rpg-menu)
 * Preview
 ![](https://github.com/Haaasib/img/blob/main/2023-04-27%2018-30-48.gif)
 * Main Script
