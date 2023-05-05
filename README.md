@@ -2,6 +2,7 @@
 
 # Installation
 * [Click To Go To The Docs Page](https://hasib.gitbook.io/home/docs/rpg-menu)
+* rename it to qb-menu
 # Preview
 ![](https://github.com/Haaasib/img/blob/main/2023-04-27%2018-30-48.gif)
 # Main Script
